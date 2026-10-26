@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "linkedin": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-linkedin"
+      ]
+    },
+    "indeed": {
+      "command": "uvx",
+      "args": [
+        "jobspy-mcp"
+      ]
+    },
+    "jobspy": {
+      "command": "uvx",
+      "args": [
+        "jobspy-mcp"
+      ]
+    }
+  }
+}

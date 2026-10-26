@@ -1,0 +1,2 @@
+- [Job Applications & Recruiter Outreach (October 2026)](job-applications-submitted-oct-2026.md) — 45 applications submitted and 3 recruiter outreach/inbound screening interactions completed
+- [User Profile](user-profile.md) — Anniket's core profile, GitHub (Anniket074), portfolio, contact, and education info
