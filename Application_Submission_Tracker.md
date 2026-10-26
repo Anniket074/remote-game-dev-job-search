@@ -30,7 +30,7 @@
 | 17 | **Proxima Studio** | Senior Technical 3D Character Artist (Comedy) | JazzHR | ✅ **Submitted & Confirmed** | `Anniket_Resume.pdf`, Custom Unity Mecanim & Comedic Systems Pitch |
 | 18 | **Hitapps** | Unity Developer | PeopleForce ATS | ✅ **Submitted & Confirmed** | `Anniket_Resume.pdf`, `Anniket_Cover_Letter_Hitapps.pdf` |
 | 19 | **Hitapps** | Game Designer | PeopleForce ATS | ✅ **Submitted & Confirmed** | `Anniket_Resume.pdf`, `Anniket_Cover_Letter_Hitapps_GD.pdf` |
-| 20 | **Happy Lemon Games** | Unity Game Developer (Remote Job) | LinkedIn Easy Apply | ✅ **Submitted & Confirmed** | `Anniket_Resume.pdf` (Profile Dossier attached) |
+| 20 | **Happy Lemon Games** | Unity Game Developer (Remote Job) | LinkedIn Easy Apply + Tally.so Screening | ✅ **Screening Form Submitted & Confirmed** | `Anniket_Resume.pdf`, Tally.so Form completed ($1,800/mo salary expectation, Fluent English, portfolio & LinkedIn verified) |
 | 21 | **Devotion Interactive** | Junior Game Developer (Console Porting) | LinkedIn Easy Apply | ✅ **Submitted & Confirmed** | `Anniket_Resume.pdf` (Profile Dossier attached) |
 | 22 | **HiredBuddy** | Game Developer (Remote) | LinkedIn Easy Apply | ✅ **Submitted & Confirmed** | `Anniket_Resume.pdf` (Profile Dossier attached) |
 | 23 | **VisCommerce** | 3D Artist (Blender) & Unity Developer (Remote) | LinkedIn Easy Apply | ✅ **Submitted & Confirmed** | `Anniket_Resume.pdf` (Profile Dossier attached) |
@@ -66,6 +66,7 @@
 | 1 | **Rumman Reza** | Baazi Games | Talent Acquisition (Multiplayer Unity Developer) | LinkedIn Connection Note | ✅ **Delivered** | Personalized pitch highlighting real-time multiplayer (WebSockets/TCP/UDP) & 50+ shipped Unity apps |
 | 2 | **Sahil Goyal** | Westvindh Games | Founder (Senior Game Designer / Casual Mobile) | LinkedIn Connection Note | ✅ **Pending Acceptance** | Personalized pitch highlighting casual/physics game mechanics & UI/UX design lead background |
 | 3 | **Kiran Kumar T P** | Cow Paradise Games | Game Production Strategist (Inbound Unity Developer Opening) | LinkedIn Direct Message & Attachment | ✅ **Delivered & Confirmed** | Answered 7-point screening questionnaire (CV, portfolio, mechanics/netcode systems, CTC, immediate notice, SDKs/mediation, liveops) + attached `Anniket_Resume.pdf` (253 KB) |
+| 4 | **Dustin La Marca** | Happy Lemon Games | Art Director & Hiring Team (Unity Game Developer) | LinkedIn Inbound DM + Tally.so Screening | ✅ **Completed & Replied** | Successfully submitted Tally.so secondary screening form ($1,800/month salary expectation, Fluent English, portfolio, Lucknow/India location) and sent confirmation reply in LinkedIn message thread |
 
 ---
 

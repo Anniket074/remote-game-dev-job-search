@@ -28,7 +28,7 @@ This repository contains the complete artifact set, automation patterns, and ins
 | Metric | Count |
 |--------|-------|
 | **Direct Applications Submitted & Confirmed** | **45** |
-| **Recruiter Outreach / Inbound Interactions** | **3** |
+| **Recruiter Outreach / Inbound Interactions** | **4** |
 | **Tailored Cover Letters (PDF)** | 22 |
 | **ATS Platforms Mastered** | Eightfold AI, Greenhouse, Ashby, Breezy HR, Workable, JazzHR, Recruitee, PeopleForce, Trakstar Hire, Lever, Gusto, Indeed SmartApply, LinkedIn Easy Apply |
 
