@@ -38,6 +38,7 @@ This repository contains the complete artifact set, automation patterns, and ins
 
 ```
 ├── Application_Submission_Tracker.md    # Master log of all 44 applications + 3 outreach
+├── Hypercasual_Projects.md              # Curated open-source Unity hypercasual games & mechanics guide
 ├── Multiplayer_Projects.md              # Curated open-source 2D & 3D Unity multiplayer games guide
 ├── Target_Jobs_Application_Kit.md       # Curated job database + pitch templates
 ├── Anniket_Complete_Profile_Dossier.md  # Full extracted profile from portfolio
